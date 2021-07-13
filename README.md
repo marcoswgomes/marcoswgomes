@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @marcoswgomes
+- 👀 I’m interested in learn about programming
+- 🌱 I’m currently learning computer science
